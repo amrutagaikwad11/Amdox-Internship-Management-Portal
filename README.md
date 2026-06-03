@@ -95,11 +95,11 @@ A highly polished full-stack web application designed to streamline the complete
    npm install
    ```
 3. Set your custom environment secrets inside a `.env` file in the root directory:
-   ```env
+   
    GEMINI_API_KEY="your_api_key_here"
    JWT_SECRET="custom_secret_key"
-   PORT=3000
-   ```
+   PORT=4000
+   
 4. Fire up the development environment:
    ```bash
    npm run dev
