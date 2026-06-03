@@ -2,7 +2,6 @@
 
 A highly polished full-stack web application designed to streamline the complete internship lifecycle for organizations, mentors, and interns. This version is running as a cohesive Full-Stack Node.js & React.js live deployment on Cloud Run with full mobile responsiveness, ambient analytics, local mock JSON persistence, and integrated Gemini AI performance analysis rules.
 
----
 
 ## Technical Stack (Current Run Implementation)
 
