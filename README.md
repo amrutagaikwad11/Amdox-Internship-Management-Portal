@@ -13,7 +13,7 @@ A highly polished full-stack web application designed to streamline the complete
 * **React Hooks & Local State Managers** for authentication sessions, attendance, and evaluation forms
 
 ### Backend Routing & Middleware
-* **Node.js & Express.js** configured on port `3000`
+* **Node.js & Express.js** configured on port `4000`
 * **JWT Token Authentication** (signed using HMAC SHA-256 signatures)
 * **Secure Cryptographic Hashing** (SHA-256 based encryption matching BCrypt specifications)
 * **Local Database Store** via structured JSON file logic (`database.json`) with auto-seeding
