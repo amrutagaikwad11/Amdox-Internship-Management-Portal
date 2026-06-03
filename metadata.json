@@ -1,0 +1,6 @@
+{
+  "name": "Internship Management Portal",
+  "description": "A comprehensive portal for managing intern lifecycle, including onboarding, mentor allocation, task assignment Kanban, submissions, real-time attendance, performance evaluations, and unique certificate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
